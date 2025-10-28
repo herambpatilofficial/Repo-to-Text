@@ -1,0 +1,5 @@
+{
+  "name": "GitHub Repo Bundler",
+  "description": "An application that fetches all relevant files from a public GitHub repository, generates a file structure tree, and bundles everything into a single downloadable text file.",
+  "requestFramePermissions": []
+}
